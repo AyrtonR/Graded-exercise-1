@@ -1,0 +1,49 @@
+.grid {
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    height: 450px;
+    width: 720px;
+}
+
+.grid div {
+    height: 50px;
+    width: 80px;
+}
+
+.end-block {
+    background-color: red;
+}
+.end-zone {
+    background-color: #52eb34;
+}
+.end-zonewater {
+    background-color: #346eeb;
+}
+.mid-zone {
+    background-color:  #52eb34;
+}
+.start-block {
+    background-color: blue;
+}
+.start-zone {
+    background-color: #52eb34;
+}
+.c1 {
+    background-color: black;
+}
+
+.l1, .l2, .l3 {
+    background-color:  #805500;
+}
+
+.l4, .l5 {
+    background-color: #346eeb;
+}
+
+.c2, .c3 {
+    background-color: grey;
+}
+.frog {
+    background-color:  #008000;
+}
